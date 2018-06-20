@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div>
     <h1>Upload data</h1>
     <form enctype="multipart/form-data">
       <input type="file" @change="onFileChange">

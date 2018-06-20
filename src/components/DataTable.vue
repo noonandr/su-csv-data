@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div>
     <h1>Data Table</h1>
     <div>
       <table align="center">
@@ -28,11 +28,11 @@
 <script>
 
 export default {
-  name: 'upload-data',
+  name: 'data-table',
   data () {
     return {
       data: [
-        {company: 'bob', trades: 1231},
+        {company: 'barclays', trades: 1231},
         {company: 'hsbc', trades: 78},
         {company: 'lloyds', trades: 123222},
         {company: 'city bank', trades: 8923},

@@ -2,18 +2,21 @@
   <div class="home">
     <UploadData/>
     <DataTable/>
+    <BarChart/>
   </div>
 </template>
 
 <script>
 import UploadData from '@/components/UploadData.vue'
 import DataTable from '@/components/DataTable.vue'
+import BarChart from '@/components/BarChart.vue'
 
 export default {
   name: 'home',
   components: {
     UploadData,
-    DataTable
+    DataTable,
+    BarChart
   }
 }
 </script>
