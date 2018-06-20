@@ -24,6 +24,11 @@ To run the server:
 $ npm run serve
 ```
 
+Test data:
+
+```
+$ vi testdata.csv
+```
 
 ## Stories
 
