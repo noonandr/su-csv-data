@@ -44,4 +44,4 @@ $ vi testdata.csv
 
 > SU-006 Component for bar chart
 
-> SU-007 Component for line chart
+> SU-007 Component for Pie chart
