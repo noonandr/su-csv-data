@@ -1,5 +1,5 @@
 # Suade CSV data
-* SPWA that dispalys a table and two graphs when CSV data is uploaded*
+* SPWA that displays a table and two graphs when CSV data is uploaded*
 
 ## Installation
 
@@ -27,14 +27,16 @@ $ npm run serve
 
 ## Stories
 
-> SU-001 create repo and vue
+> SU-001 create repo
 
-> SU-002 Component to upload CVS
+> SU-002 setup vue environment
 
-> SU-003 Service to pass CSV
+> SU-003 Component to upload CVS
 
-> SU-004 Component to diplay table
+> SU-004 Service to pass CSV
 
-> SU-005 Component for bar chart
+> SU-005 Component to diplay table
 
-> SU-006 Component for line chart
+> SU-006 Component for bar chart
+
+> SU-007 Component for line chart
